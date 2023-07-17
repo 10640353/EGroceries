@@ -1,6 +1,6 @@
 # EGroceries
 
-maxshoppe
+EGroceries
 steps to build an push docker containers to container registry in azure
 
 docker build -t EGroceries:v1 .
@@ -73,6 +73,5 @@ VALUES
 
 Azure Create container Registry
 
-Login to Registry from powershell from local system,
-s
+Login to Registry from powershell from local systems
 
