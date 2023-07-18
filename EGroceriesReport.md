@@ -93,3 +93,12 @@ https://github.com/10640353/EGroceries/tree/main
 
 AZURE URL :
 
+https://egroceries.azurewebsites.net/
+
+References
+
+Armbrust, M., Fox, A., Griffith, R., Joseph, A. D., Katz, R., Konwinski, A., ... & Zaharia, M. (2010). A view of cloud computing. Communications of the ACM, 53(4), 50-58. doi: 10.1145/1721654.1721672
+
+Link: https://dl.acm.org/doi/10.1145/1721654.1721672
+Gartner. (2019). Market guide for cloud service providers to healthcare delivery organizations. Gartner, Inc.
+
