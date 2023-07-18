@@ -12,8 +12,6 @@ E- GROCERY STORE Background
 
 T- GROCERY STORE is a well-established grocery store chain operating across multiple locations. The company offers a wide range of products, including fresh produce, packaged foods, and household items. The existing IT infrastructure primarily consists of on-premises servers, local storage, and traditional software applications. However, [Store Name] recognizes the need to modernize its infrastructure to meet evolving customer demands and industry trends.
 
- GITHUB URL:
-
  
 
 Current IT Setup:
@@ -21,11 +19,6 @@ Current IT Setup:
 Infrastructure: The current infrastructure comprises physical servers, local storage, and networking equipment located on-site. This setup requires significant maintenance, lacks scalability, and limits the store's ability to quickly adapt to changing business needs.
 
  
-
- 
-
- 
-
 Applications: E- GROCERY STORE utilizes traditional software applications for inventory management, point-of-sale systems, employee management, and accounting. These applications are typically installed on individual machines and require regular updates and backups.
 
  
@@ -93,3 +86,10 @@ Cloud storage eliminates the need for on-premises hardware, reducing costs and c
 Conclusion:
 
 E- GROCERY STORE can greatly benefit from embracing cloud solutions to modernize its IT infrastructure. Migrating infrastructure to the cloud (IaaS), adopting cloud-based applications (SaaS), and leveraging cloud storage and backup services (IaaS/BaaS) will result in improved scalability, cost-efficiency, data security, and overall operational agility. It is crucial for E- GROCERY STORE to carefully plan and execute the cloud migration strategy while ensuring data security and seamless integration with existing systems for a successful transition.
+
+GITHUB URL :
+
+https://github.com/10640353/EGroceries/tree/main
+
+AZURE URL :
+
