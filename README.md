@@ -1,7 +1,7 @@
 # EGroceries: An Express Node.js App Deployment Guide on Azure with MSSQL
 ## Introduction : 
 EGroceries is an online sell and delivery grocery application, it is shifted from in house Infrastructure to the cloud Infrastructure for efficiency and cost saving
-
+Url : https://egroceries.azurewebsites.net/
 ## Pre-requisites
 
 - Docker installation on your local machine
