@@ -57,7 +57,7 @@ az group create --name EGroceriesResourceGroup --location eastus
 Establish an Azure Container Instances (ACI) for the MSSQL Server:
 
 ```bash
-az container create --name mssqlservercontainer --resource-group EGroceriesResourceGroup --image mcr.microsoft.com/mssql/server:2022-latest --ip-address Public --ports 1433 --cpu 2 --memory 4 --environment-variables ACCEPT_EULA=Y SA_PASSWORD=Admin@1234
+az container create --name mssqlservercontainer --resource-group EGroceriesRG --image mcr.microsoft.com/mssql/server:2022-latest --ip-address Public --ports 1433 --cpu 2 --memory 4 --environment-variables ACCEPT_EULA=Y SA_PASSWORD=Groceries@123
 ```
 
 ## Step 6: Deploying the Application Container on Azure
@@ -87,7 +87,7 @@ Navigate to the properties of the web app and in the 'Advanced' tab, include the
 },
 {
     "name": "DB_PASSWORD",
-    "value": "Admin@1234",
+    "value": "Groceries@123",
     "slotSetting": false
 },
 {
