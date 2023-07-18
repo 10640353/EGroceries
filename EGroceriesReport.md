@@ -12,6 +12,8 @@ E- GROCERY STORE Background
 
 T- GROCERY STORE is a well-established grocery store chain operating across multiple locations. The company offers a wide range of products, including fresh produce, packaged foods, and household items. The existing IT infrastructure primarily consists of on-premises servers, local storage, and traditional software applications. However, [Store Name] recognizes the need to modernize its infrastructure to meet evolving customer demands and industry trends.
 
+ GITHUB URL:
+
  
 
 Current IT Setup:
