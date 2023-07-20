@@ -1,15 +1,15 @@
 # Use a Node.js base image
-FROM node:14
+FROM node:12
 
 # Set the working directory
-WORKDIR /app
+WORKDIR /app ..
 
 # Copy the rest of the application code
-ADD . .
-RUN npm install express mssql ejs
+ADD . 
+RUN npm install 
 
 # Expose the port your application listens on
-EXPOSE 3000
+EXPOSE 4000
 
 # Run the Node.js application
 CMD ["node", "server.js"]
