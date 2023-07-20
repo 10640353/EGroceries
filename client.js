@@ -13,15 +13,5 @@ window.addEventListener('DOMContentLoaded', () => {
       .catch(error => console.log('Error:', error));
   });
   
-  // Function to generate the HTML content with the data
-  function generateHTML(data) {
-    let html = '';
   
-    // Iterate over the data and create list items
-    data.forEach(item => {
-      html += `<li>${item.column1} - ${item.column2}</li>`;
-    });
-  
-    return html;
-  }
   
